@@ -9,4 +9,9 @@ public class MainMenu : MonoBehaviour
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("_Scene_0");
     }
+    public void ExitButton()
+    {
+        Application.Quit();
+        Debug.Log("Game closed");
+    }
 }
