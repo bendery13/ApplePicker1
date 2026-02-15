@@ -1,12 +1,12 @@
 # Apple Picker Game
 ## Course Information
 Southern Illinois University Edwardsville  
-CS 382 - Game Design, Development and Technology
+CS 382 - Game Design, Development, and Technology
 
 ## Project Overview
 Apple Picker is a 2D arcade-style game where the player controls a basket to catch falling apples while avoiding dangerous falling branches. The difficulty increases by rounds, and the game ends if the player catches a branch or misses too many apples.
 
-The game demonstrates foundational Unity concepts including:
+The game demonstrates foundational Unity concepts, including:
 
  - Scene management
  - UI integration
@@ -16,15 +16,15 @@ The game demonstrates foundational Unity concepts including:
  - Multi-round gameplay progression
 
 ### Game Aspect Notes
-When loaded into Unity, the Aspect Ratio will default to "Free Aspect". This may cut off the top portion of the text, so for best results change the aspect ratio to either 16:9 or Full HD (1920 x 1080)
+When loaded into Unity, the Aspect Ratio will default to "Free Aspect". This may cut off the top portion of the text, so for best results, change the aspect ratio to either 16:9 or Full HD (1920 x 1080). When the game is built, the canvas should be the correct size, but Unity will not automatically change the aspect ratio in the viewer.
 
 ## Gameplay
 ### How to Play
- - Move basket left/right using mouse 
+ - Move the basket left/right using the mouse 
  - Catch apples to survive rounds
  - Avoid catching branches
  - Survive through 4 rounds
- - Rounds increase as score grows
+ - Rounds increase as the score grows
  - Restart and try again after Game Over
 
 ### Main Menu Screen     
