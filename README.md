@@ -33,7 +33,7 @@ When loaded into Unity, the Aspect Ratio will default to "Free Aspect". This may
 ### Early Game
 <img width="913" height="518" alt="Round One" src="https://github.com/user-attachments/assets/cdaf51a5-dd2c-4c4d-a0f3-7610466e068d" />
 
-### Mutlile Rounds
+### Multiple Rounds
 <img width="915" height="516" alt="Game Rounds" src="https://github.com/user-attachments/assets/5eb0b804-3f78-4171-b275-540e4a39059d" />
 
 ### Game Over
