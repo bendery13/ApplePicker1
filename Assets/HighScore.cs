@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class HighScore : MonoBehaviour
 {
     static private Text _UI_TEXT;
-    static private int _SCORE = 0;
+    static private int _SCORE = 1000;
     private Text txtCom; // Text Component
     void Awake(){
        _UI_TEXT = GetComponent<Text>();
